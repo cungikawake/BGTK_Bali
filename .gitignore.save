@@ -1,0 +1,12 @@
+# ==================================================
+# USER / UPLOAD DOCUMENTS
+# ==================================================
+/assets/ttd/
+/buku_tabungan/
+/data_dukung/
+/kontrak_pm/
+/laporan_perjadin/
+/laporan_wi/
+/surat_tugas/
+/user_dokumen/
+/user_profile/

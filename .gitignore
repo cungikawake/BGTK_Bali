@@ -1,0 +1,17 @@
+# ==================================================
+# USER / UPLOAD DOCUMENTS
+# ==================================================
+
+/vendor/
+/node_modules/
+/assets/ttd/
+/assets/buku_tabungan/
+/assets/data_dukung/
+/assets/kontrak_pm/
+/assets/laporan_perjadin/
+/assets/laporan_wi/
+/assets/surat_tugas/
+/assets/user_dokumen/
+/assets/user_profile/
+/assets/images/sertifikat/
+/silik/third_party/Google/vendor/
