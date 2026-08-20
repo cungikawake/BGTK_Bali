@@ -11,6 +11,12 @@ silik bali app
 - Rubah url origin menjadi ssh repository
 - git push origin <branch>
 
+# Vendor Composer install
+- composer install
+
+#vendor di silik/third_party/Google/vendor perlu di buat ulang
+
+ 
 #Create a Migration
 - php index.php migrate make create_your_table_name
 
